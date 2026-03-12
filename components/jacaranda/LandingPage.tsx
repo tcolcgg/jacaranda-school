@@ -164,6 +164,9 @@ export function LandingPage({ onEnter }: LandingPageProps) {
           </p>
           <Flower className="h-6 w-6 text-white" />
         </div>
+        <p className="mt-2 text-xs text-white opacity-70">
+          Desarrollado por los papás de Darío
+        </p>
       </motion.footer>
     </div>
   );
